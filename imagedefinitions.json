@@ -1,0 +1,6 @@
+[
+  {
+    "name": "wildrydes-app",
+    "imageUri": "<account-id>.dkr.ecr.<region>.amazonaws.com/wildrydes:latest"
+  }
+]
